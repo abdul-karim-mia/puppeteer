@@ -1,5 +1,13 @@
 # Changelog
 
+## [25.17.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.17.0...puppeteer-core-v25.17.1) (2026-11-10)
+
+
+### 🛠️ Fixes
+
+* **bidi:** reset setPermission overrides in clearPermissionOverrides ([#15754](https://github.com/puppeteer/puppeteer/issues/15754)) ([c3604cf](https://github.com/puppeteer/puppeteer/commit/c3604cf757ecca3facc23c831a7d08e1b11da323))
+* dispose temporary CDP binding handles ([#15731](https://github.com/puppeteer/puppeteer/issues/15731)) ([768ab92](https://github.com/puppeteer/puppeteer/commit/768ab92a80aca010f0c90f0eb57fad3b46e15016))
+
 ## [25.17.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.16.0...puppeteer-core-v25.17.0) (2026-11-10)
 
 
